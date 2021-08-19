@@ -11,4 +11,4 @@ This repository contains login,signup and forget password page + a very raw stru
 4.The login ,signup and forget password page are fully functional having email,password signup with authentication backend at firebase. Login with facebook and google  functionality is also added in addition of that.<br/>
 
 The site is hosted on Netlify .
-Link to hosted site : [PuppyLove](puppyloverandom.netlify.app)
+Link to hosted site : [PuppyLove](https://puppyloverandom.netlify.app)
